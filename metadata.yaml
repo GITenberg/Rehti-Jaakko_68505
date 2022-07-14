@@ -1,0 +1,43 @@
+_repo: Rehti-Jaakko_68505
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Höcker, Gustav
+    alias: Hocker, Gustav
+    birthdate: 1832
+    deathdate: 1911
+    gutenberg_agent_id: '50609'
+    url: http://www.gutenberg.org/2009/agents/50609
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gustav_H%C3%B6cker
+    - https://de.wikipedia.org/wiki/Gustav_H%C3%B6cker
+creator:
+  author:
+    agent_name: Marryat, Frederick
+    aliases:
+    - Marryat, Captain
+    - Marryat, Kapitein
+    - Marryatt, Captain
+    - Marryat, F. W. (Frederick W.)
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '627'
+    url: http://www.gutenberg.org/2009/agents/627
+    wikipedia: https://en.wikipedia.org/wiki/Frederick_Marryat
+description: ''
+gutenberg_issued: '2022-07-11'
+identifiers:
+  gutenberg: '68505'
+language: fi
+pgterms:marc905: 20220529083359marryat
+pgterms:marc906: '1894'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :Werner Söderström,1894.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rehti-Jaakko
+url: http://www.gutenberg.org/ebooks/68505
